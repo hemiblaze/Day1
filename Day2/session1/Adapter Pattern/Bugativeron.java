@@ -1,3 +1,4 @@
+package adapterPattern;
 public class Bugativeron implements Movable{
 	 
 	public double getSpeed() {
